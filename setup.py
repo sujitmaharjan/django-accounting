@@ -34,7 +34,7 @@ setup(name='django-accounting',
           # Used to render the forms
           'django-bootstrap3==4.11.0',
           # Used to improve the forms
-          'Django_Select2_Py3>=5.8.0',
+          # 'Django_Select2_Py3',
           # Used for date/time form fields
           'django-datetime-widget>=0.9,<1.0',
           # Define beautiful tags
